@@ -1,4 +1,4 @@
-https://parjolandrei.github.io/lyric-finder
+
 https://parjolandrei.github.io/game-of-life/
 
 https://parjolandrei.github.io/netflix-clone/
